@@ -63,7 +63,7 @@ frontApp
 
 4.  **`End-User`** : User on their device send the message to us
 
-## 🚀 Quick start
+## Quick start
 
 There are two ways to run the app. 
 
