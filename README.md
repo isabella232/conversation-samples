@@ -1,10 +1,7 @@
 # conversation-samples
 
-This repo is served to provide you some of the examples of how to use Sinch API with other platforms. 
+This repo is served to provide you some of the examples of how to use Sinch API with other platforms.
 
+## What in this repository
 
-## What in this repository 
-
-**frontApp** : An integration app which exchanges text messages between front and sinch 
-
-**frontAppRichMessaging**: An integration app which exchange text and image messages between front and sinch.
+[Node Front integrations](node/front-integrations/) : Integration samples which exchanges text and media messages between [front](https://frontapp.com) and [Sinch](https://developer.sinch.com).
